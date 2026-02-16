@@ -80,11 +80,17 @@ pip install pandas matplotlib seaborn
 ## Example Console Output
 
 ALERT SUMMARY:  
+
 High Risk Flows: XXXX  
+
 Attack Type Counts:  
+
 SYN Flood XXXX  
+
 UDP/Traffic Flood XXXX  
+
 Port Scan XXXX  
+
 Benign XXXX
 
 ---
