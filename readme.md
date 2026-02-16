@@ -77,6 +77,30 @@ pip install pandas matplotlib seaborn
 
 ---
 
+## Dataset
+
+Datasets are **not included in the repo** because they are large.
+
+Download the datasets from here:
+
+https://www.unb.ca/cic/datasets/ddos-2019.html
+
+Download these CSV files and place them inside
+
+---
+
+## Project Structure 
+
+n-w-traffic-analyser/
+│
+├── data/ # place datasets here (NOT uploaded to GitHub)
+├── scripts/
+│ └── traffic_analysis.py
+├── outputs/ # charts + reports generated here
+└── README.md
+
+---
+
 ## Example Console Output
 
 ALERT SUMMARY:  
