@@ -92,11 +92,17 @@ Download these CSV files and place them inside
 ## Project Structure 
 
 n-w-traffic-analyser/
+
 │
+
 ├── data/ # place datasets here (NOT uploaded to GitHub)
+
 ├── scripts/
+
 │ └── traffic_analysis.py
+
 ├── outputs/ # charts + reports generated here
+
 └── README.md
 
 ---
